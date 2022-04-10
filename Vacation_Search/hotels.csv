@@ -1,0 +1,60 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+12,Chuy,UY,74.03,scattered clouds,-33.6971,-53.4616,Nuevo Hotel Plaza
+37,Hilo,US,74.12,light rain,19.7297,-155.09,Hilo Hawaiian Hotel
+40,Fremont,US,74.1,clear sky,37.5483,-121.9886,Best Western Plus Garden Court Inn
+54,Ituango,CO,71.56,overcast clouds,7.1712,-75.764,HOTEL LA CASONA ITUANGO
+67,Camana,PE,71.92,few clouds,-16.6228,-72.7111,Hostal Morales
+77,Mar Del Plata,AR,71.1,light rain,-38.0023,-57.5575,Gran Hotel Mar del Plata
+99,Cape Town,ZA,73.9,clear sky,-33.9258,18.4232,"Radisson Blu Hotel Waterfront, Cape Town"
+103,Half Moon Bay,US,72.54,haze,37.4636,-122.4286,"The Ritz-Carlton, Half Moon Bay"
+108,Dingle,PH,72.55,moderate rain,10.9995,122.6711,SEGAYA PROPERTY
+109,Wanning,CN,71.33,scattered clouds,18.8003,110.3967,Paradise Hotel
+117,Sao Filipe,CV,73.62,clear sky,14.8961,-24.4956,Hotel Xaguate
+132,Lingao,CN,70.61,clear sky,19.9103,109.6859,Lingao Ditai Inn
+136,Huarmey,PE,73.99,broken clouds,-10.0681,-78.1522,Hotel Miramar
+146,Cidreira,BR,73.4,overcast clouds,-30.1811,-50.2056,Hotel Castelo
+150,Koboko,UG,74.21,overcast clouds,3.4136,30.9599,Hotel Diplomat
+151,Komsomolskiy,UZ,71.47,broken clouds,40.4272,71.7189,Ikathouse
+155,Tulsipur,NP,74.5,clear sky,28.131,82.2973,Ekanta Hotel Pvt. Ltd
+187,Mareeba,AU,74.44,overcast clouds,-17.0,145.4333,Trinity Plains Tourist Park
+203,Sakakah,SA,73.44,broken clouds,29.9697,40.2064,Fakhamat Al Orjoana Apartment
+220,Ambilobe,MG,74.53,few clouds,-13.2,49.05,Hôtel & Restaurant DIANA Ambilobe
+232,Mbandaka,CD,74.68,light rain,0.0487,18.2603,Guest House Epervier
+246,Tuy Hoa,VN,72.54,broken clouds,13.0833,109.3,CenDeluxe Hotel Tuy Hoa
+274,Lima,PE,73.38,clear sky,-12.0432,-77.0282,Hotel Kamana
+293,Gulu,UG,74.14,overcast clouds,2.7746,32.299,ACHOLI INN
+301,Victoria,HK,74.32,few clouds,22.2855,114.1577,Mini Hotel Central
+308,Tabuk,PH,71.87,overcast clouds,17.4189,121.4443,Golden Berries Hotel and Convention
+319,Sakaraha,MG,74.75,scattered clouds,-22.9,44.5333,Le Relais
+368,Inhambane,MZ,74.82,moderate rain,-23.865,35.3833,Oceano
+404,Nsanje,MW,70.75,few clouds,-16.92,35.262,Nsanje Discovery Lodge
+422,Baghdad,IQ,71.51,clear sky,33.3406,44.4009,Baghdad Hotel
+427,Pacific Grove,US,70.56,clear sky,36.6177,-121.9166,Lovers Point Inn
+442,Nishihara,JP,72.68,mist,26.1842,127.7558,Minshuku Agaihama
+454,Necochea,AR,72.16,overcast clouds,-38.5473,-58.7368,dyd -mar Hotel
+459,Hualmay,PE,73.08,few clouds,-11.0964,-77.6139,Hotel Villa Kitzia Huacho
+461,San Joaquin,US,72.86,clear sky,37.9333,-121.3011,University Plaza Waterfront Hotel
+462,Luebo,CD,73.17,broken clouds,-5.35,21.4167,
+468,Murgab,TM,71.47,broken clouds,37.4966,61.9714,
+478,Masindi,UG,73.49,overcast clouds,1.6744,31.715,New Court View Hotel
+484,Hirara,JP,73.71,broken clouds,24.8,125.2833,Hotel Atoll Emerald Miyakojima
+496,Fort Payne,US,71.73,clear sky,34.4442,-85.7197,"Holiday Inn Express & Suites Fort Payne, an IHG Hotel"
+497,Guerrero Negro,MX,74.01,clear sky,27.9769,-114.0611,"Casa Laguna, Bed & Breakfast"
+501,Gamboma,CG,73.67,moderate rain,-1.8764,15.8644,Residence N'Keni
+509,Namibe,AO,71.31,few clouds,-15.1961,12.1522,Hotel Chik Chik Namibe
+511,Creston,US,71.33,clear sky,41.0586,-94.3614,Supertel Inn & Conference Center
+512,Nalut,LY,71.6,clear sky,30.3333,10.85,
+521,Sembakung,ID,72.64,overcast clouds,3.8167,117.25,
+548,Laguna,US,71.69,clear sky,38.421,-121.4238,"Holiday Inn Express & Suites Elk Grove Central - Hwy 99, an IHG Hotel"
+567,Metro,ID,74.35,overcast clouds,-5.1131,105.3067,OYO 3177 Wisma Lintang
+571,Santiago De Cao,PE,71.55,broken clouds,-7.9589,-79.2392,Casa de la tía
+582,Gondanglegi,ID,74.01,few clouds,-7.7479,112.0132,pondok pesantren mamba'ul 'ulum selo rejo
+583,Arica,CL,70.03,clear sky,-18.475,-70.3042,Hostal Jardin Del Sol
+587,Bondo,CD,70.05,moderate rain,3.8146,23.6866,
+601,Singkang,MY,74.88,broken clouds,2.1006,102.7994,Kampung Seri Makmor Pagoh
+604,Masuguru,TZ,73.33,light rain,-11.3667,38.4167,
+629,Miri,MY,73.54,few clouds,4.4148,114.0089,"Mega Hotel, Miri"
+641,Yueyang,CN,70.39,clear sky,29.3333,113.0919,Delong Fortune Hotel
+648,Almendralejo,ES,71.53,overcast clouds,38.6832,-6.4075,Hotel España
+657,Kerman,IR,71.46,clear sky,30.2832,57.0788,هتل آپارتمان آسام
+671,Mocuba,MZ,70.0,clear sky,-16.8392,36.9856,Phama Lodge
