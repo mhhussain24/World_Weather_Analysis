@@ -1,1 +1,2 @@
-# World_Weather_Analysis
+# World_Weather_Analysis Purpose
+- Helping client with PlanMyTrip app. After retrieving weather data, I am adding the weather description to the weather data. Then, creating code so that the beta testers use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, we created a travel route between the four cities as well as a marker layer map.
